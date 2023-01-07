@@ -16,5 +16,5 @@
 # Modules with * sign behind are not build-in modules.
 # Modules above does not include their dependencies, such as numpy.
 
-# Data are request from "https://data.epa.gov.tw/api/v2/aqx_p_432" real-time,
+# Data are request from "https://data.epa.gov.tw/api/v2/aqx_p_432",
   you can also view them in "https://data.gov.tw/dataset/40448".
